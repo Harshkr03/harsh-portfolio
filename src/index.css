@@ -5,8 +5,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Space Grotesk", sans-serif;
-  background: #0a0a0a;
-  color: #f3f4f6;
+  background: #001219;
+  color: white;
 }
 
 @layer utilities {
@@ -47,4 +47,11 @@ body {
 .reveal.visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+@theme{
+  --color-neon-green:#d9ed92;
+  --color-dark:#22223b;
+  --color-blueish:#34a0a4;
+  --color-greenish:#76c893;
 }
