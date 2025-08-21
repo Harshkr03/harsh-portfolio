@@ -18,11 +18,10 @@ export const Home = () => {
               I'm passionate about building scalable and efficient full-stack
               web applications. My goal is to build solutions that offer both
               exceptional performance and a delightful user experience.
-              <a href="mailto:harshk052003@gmail.com">Send Email</a>
             </p>
             <div className="flex justify-center space-x-4">
               <a
-                href="https://drive.google.com/file/d/14b9iUcTn74ZEvrh1B0Mkc_7-r-hg8p8x/view?usp=sharing"
+                href="https://drive.google.com/file/d/12MdiWnY1G82B3PiKG-hRY5x6Sgh_m1GG/view?usp=sharing"
                 target="_blank"
                 className="bg-neon-green text-dark py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.4)]"
               >
@@ -42,8 +41,8 @@ export const Home = () => {
       </div>
 
       <div className="flex-1 flex items-center justify-center mr-40">
-        <div className="w-80 h-90 bg-blueish  shadow-lg flex flex-col items-center justify-start pt-8">
-          <div className="w-36 h-36 rounded-full border-4 border-neon-green overflow-hidden mb-4">
+        <div className="w-100 h-120 bg-blueish  shadow-lg flex flex-col items-center justify-start pt-8">
+          <div className="w-50 h-50 rounded-full border-4 border-neon-green overflow-hidden mb-4">
             <img
               src={myImage}
               alt="profile"
@@ -52,10 +51,10 @@ export const Home = () => {
           </div>
           <div className="text-center mt-2">
             <strong i>
-              <span className="block text-lg font-bold">HARSH</span>
-              <span className="block text-lg font-bold">KUMAR</span>
+              <span className="block text-2xl font-bold">HARSH</span>
+              <span className="block text-2xl font-bold">KUMAR</span>
               <hr className="my-4" />
-              <span className="block text-lg font-bold">
+              <span className="block text-2xl font-bold mb-6">
                 SOFTWARE DEVELOPER
               </span>
               <div className="flex justify-center space-x-6 mt-3">

@@ -33,7 +33,8 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwj-z-GMgpePAxU-Q2cHHdR4AhkQPAgI"
+                  href="https://github.com/Harshkr03/Multithreaded-Chat-Server"
+                  target="_blank"
                   className="text-neon-green hover:text-neon-green transition-colors my-4"
                 >
                   View Project →
