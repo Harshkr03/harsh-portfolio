@@ -49,9 +49,9 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Location Based File Sharing Application</h3>
+              <h3 className="text-xl font-bold mb-2">Zone Drop</h3>
               <p className="text-gray-400 mb-4">
-                Mobile app designed to enable seamless and intuitive sharing of files between users based on their physical proximity
+                Mobile app designed to enable seamless and intuitive sharing of files between users based on their physical proximity.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Firebase", "Google OAuth2", "Docker"].map((tech, key) => (
@@ -71,7 +71,8 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/Harshkr03/Zone-Drop"
+                  target = "_blank"
                   className="text-neon-green hover:text-neon-green transition-colors my-4"
                 >
                   View Project →
@@ -150,7 +151,8 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center ">
                 <a
-                  href="#"
+                  href="https://github.com/Harshkr03/Contact-Manager"
+                  target="_blank"
                   className="text-neon-green hover:text-neon-green transition-colors my-4"
                 >
                   View Project →
